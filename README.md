@@ -1,5 +1,7 @@
 # temporizador-estudio-descanso
 
+Proyecto académico de formación Front-End:
+
 ![Focus_1](https://github.com/user-attachments/assets/22342c07-06bc-44cf-9ee5-8381236ab335)
 
 
