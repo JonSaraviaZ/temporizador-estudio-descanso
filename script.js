@@ -117,9 +117,9 @@ function reiniciar(){
 
 function cambiarIcono(){ //función para cambiar el icono
     if(iconoDelBoton.src.includes("play_arrow.png")){
-        iconoDelBoton.setAttribute("src","/imagenes/pause.png");
+        iconoDelBoton.setAttribute("src","./imagenes/pause.png");
     } else {
-        iconoDelBoton.setAttribute("src","/imagenes/play_arrow.png");
+        iconoDelBoton.setAttribute("src","./imagenes/play_arrow.png");
     }
 }
 
